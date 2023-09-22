@@ -1,4 +1,4 @@
-<h1 align="center"> T SQL lab work🧾 </h1>
+<h1 align="center"> Database lab work🧾 </h1>
 
 <ol>
 
